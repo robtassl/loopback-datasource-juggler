@@ -19,4 +19,6 @@ Also install the appropriated connector, for example for mongodb:
 
 See [StrongLoop Documentation](http://docs.strongloop.com/) for more information.
 
+Trigger build
+
 
